@@ -14,6 +14,7 @@ Clone este repositório:
 bash
 Copiar código
 git clone https://github.com/rafaelAlvesQaTester/atividade_laravel_aula4_IF_SMG
+
 Navegue até o diretório do projeto:
 
 bash
