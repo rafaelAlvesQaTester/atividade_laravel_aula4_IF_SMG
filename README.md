@@ -7,7 +7,7 @@ Construir uma aplicação web seguindo as instruções disponibilizadas no mater
 🛠️ Tecnologias Utilizadas
 Visual Studio / Visual Studio Code
 Git e GitHub
-Linguagem de programação e framework conforme o material da semana (ex.: HTML, CSS, JavaScript, etc.)
+Linguagem de programação e framework conforme o material da semana (PHP e o FRAMEWORK LARAVEL)
 🚀 Como executar o projeto
 Clone este repositório:
 
