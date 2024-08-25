@@ -23,12 +23,17 @@ cd nome-do-repositorio
 Execute a aplicação conforme as instruções do material da semana.
 
 📝 Regras de Participação
+
 O projeto pode ser desenvolvido individualmente ou em grupos de até 3 pessoas.
 Todos os membros do grupo devem criar uma conta no GitHub, integrar ao Visual Studio, e compartilhar o link do repositório aqui.
 O repositório deve estar público para permitir a verificação do funcionamento.
 Em caso de dúvidas, consulte o suporte durante o encontro online ou através da gravação disponível.
+
 📚 Dicas Importantes
+
 Mantenha-se atualizado e busque aprender constantemente, seja por tutoriais, comunidades ou outras fontes. O desenvolvedor web deve estar em constante evolução.
 Exercite a busca pelo conhecimento, muitas vezes a informação não será entregue de forma simples e direta.
+
 👥 Contribuidores
+
 Nome do Aluno MARCOS RAFAEL ALVES
