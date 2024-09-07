@@ -14,6 +14,6 @@ class Produto extends Model
         'qtd',
         'precoUnitario',
         'precoVenda'
-    ]
+    ];
 
 }
